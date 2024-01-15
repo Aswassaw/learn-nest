@@ -1,0 +1,3 @@
+- npm i -g @nestjs/cli
+- nest new learn-nest --strict
+- nest g resource user
